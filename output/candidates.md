@@ -32,7 +32,7 @@
   https://github.com/malwaredllc
 - **mingyuliutw** (20.0) — AI
   https://github.com/mingyuliutw
-- **CoreyMSchafer** (19.3) — 
+- **CoreyMSchafer** (19.5) — 
   https://github.com/CoreyMSchafer
 - **dutc** (16.7) — Full-Stack, AI
   https://github.com/dutc
