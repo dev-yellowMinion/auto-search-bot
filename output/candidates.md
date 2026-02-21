@@ -14,7 +14,7 @@
   https://github.com/Bitwise-01
 - **kvfrans** (38.7) — AI
   https://github.com/kvfrans
-- **jgamblin** (37.5) — AI
+- **jgamblin** (37.6) — AI
   https://github.com/jgamblin
 - **gunthercox** (36.7) — AI, Full-Stack
   https://github.com/gunthercox
