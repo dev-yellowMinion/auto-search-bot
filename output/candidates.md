@@ -6,7 +6,7 @@
   https://github.com/jwasham
 - **santosomar** (54.2) — AI
   https://github.com/santosomar
-- **jhaddix** (46.9) — AI
+- **jhaddix** (44.2) — AI
   https://github.com/jhaddix
 - **toxtli** (43.6) — AI
   https://github.com/toxtli
