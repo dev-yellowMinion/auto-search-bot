@@ -6,14 +6,14 @@
   https://github.com/jwasham
 - **santosomar** (53.9) — AI
   https://github.com/santosomar
-- **jhaddix** (44.2) — AI
-  https://github.com/jhaddix
 - **toxtli** (43.6) — AI
   https://github.com/toxtli
 - **Bitwise-01** (42.2) — AI, Full-Stack
   https://github.com/Bitwise-01
 - **kvfrans** (38.7) — AI
   https://github.com/kvfrans
+- **jhaddix** (38.2) — AI
+  https://github.com/jhaddix
 - **jgamblin** (37.9) — AI
   https://github.com/jgamblin
 - **gunthercox** (36.7) — AI, Full-Stack
