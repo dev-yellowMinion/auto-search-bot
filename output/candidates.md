@@ -22,7 +22,7 @@
   https://github.com/adarob
 - **PaulSec** (35.8) — AI, Full-Stack
   https://github.com/PaulSec
-- **awni** (33.5) — AI
+- **awni** (33.6) — AI
   https://github.com/awni
 - **HackerPoet** (33.3) — AI
   https://github.com/HackerPoet
