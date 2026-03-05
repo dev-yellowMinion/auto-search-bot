@@ -20,7 +20,7 @@
   https://github.com/gunthercox
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
-- **PaulSec** (35.8) — AI, Full-Stack
+- **PaulSec** (34.8) — AI, Full-Stack
   https://github.com/PaulSec
 - **awni** (33.6) — AI
   https://github.com/awni
