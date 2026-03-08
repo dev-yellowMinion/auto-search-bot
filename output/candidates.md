@@ -14,7 +14,7 @@
   https://github.com/kvfrans
 - **jhaddix** (38.2) — AI
   https://github.com/jhaddix
-- **jgamblin** (37.9) — AI
+- **jgamblin** (36.9) — AI
   https://github.com/jgamblin
 - **gunthercox** (36.7) — AI, Full-Stack
   https://github.com/gunthercox
