@@ -20,12 +20,12 @@
   https://github.com/jgamblin
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
-- **PaulSec** (34.8) — AI, Full-Stack
-  https://github.com/PaulSec
 - **awni** (34.2) — AI
   https://github.com/awni
 - **HackerPoet** (33.3) — AI
   https://github.com/HackerPoet
+- **PaulSec** (31.8) — AI
+  https://github.com/PaulSec
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
 - **malwaredllc** (23.1) — AI, Full-Stack
