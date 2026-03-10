@@ -24,7 +24,7 @@
   https://github.com/awni
 - **HackerPoet** (33.3) — AI
   https://github.com/HackerPoet
-- **PaulSec** (31.8) — AI
+- **PaulSec** (31.9) — AI
   https://github.com/PaulSec
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
