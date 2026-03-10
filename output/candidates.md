@@ -20,7 +20,7 @@
   https://github.com/jgamblin
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
-- **awni** (34.3) — AI
+- **awni** (34.4) — AI
   https://github.com/awni
 - **HackerPoet** (33.3) — AI
   https://github.com/HackerPoet
