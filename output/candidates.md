@@ -14,10 +14,10 @@
   https://github.com/kvfrans
 - **gunthercox** (36.7) — AI, Full-Stack
   https://github.com/gunthercox
-- **jgamblin** (36.6) — AI
-  https://github.com/jgamblin
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
+- **jgamblin** (35.6) — AI
+  https://github.com/jgamblin
 - **jhaddix** (35.2) — AI
   https://github.com/jhaddix
 - **awni** (34.4) — AI
