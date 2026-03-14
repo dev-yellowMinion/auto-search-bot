@@ -20,7 +20,7 @@
   https://github.com/jgamblin
 - **jhaddix** (35.2) — AI
   https://github.com/jhaddix
-- **awni** (34.4) — AI
+- **awni** (34.5) — AI
   https://github.com/awni
 - **HackerPoet** (33.3) — AI
   https://github.com/HackerPoet
