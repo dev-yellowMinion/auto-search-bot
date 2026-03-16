@@ -12,14 +12,14 @@
   https://github.com/Bitwise-01
 - **kvfrans** (38.7) — AI
   https://github.com/kvfrans
+- **jhaddix** (38.2) — AI
+  https://github.com/jhaddix
 - **gunthercox** (36.7) — AI, Full-Stack
   https://github.com/gunthercox
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
 - **jgamblin** (35.6) — AI
   https://github.com/jgamblin
-- **jhaddix** (35.2) — AI
-  https://github.com/jhaddix
 - **awni** (34.5) — AI
   https://github.com/awni
 - **HackerPoet** (33.3) — AI
