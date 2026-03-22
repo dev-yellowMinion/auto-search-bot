@@ -20,7 +20,7 @@
   https://github.com/adarob
 - **jgamblin** (35.6) — AI
   https://github.com/jgamblin
-- **awni** (34.6) — AI
+- **awni** (34.7) — AI
   https://github.com/awni
 - **HackerPoet** (33.3) — AI
   https://github.com/HackerPoet
