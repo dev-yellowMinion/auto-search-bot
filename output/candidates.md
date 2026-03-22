@@ -24,6 +24,8 @@
   https://github.com/awni
 - **HackerPoet** (33.3) — AI
   https://github.com/HackerPoet
+- **hexsecteam** (33.3) — AI
+  https://github.com/hexsecteam
 - **PaulSec** (31.9) — AI
   https://github.com/PaulSec
 - **adamdotdevin** (25.3) — Full-Stack, AI
@@ -34,8 +36,6 @@
   https://github.com/mingyuliutw
 - **CoreyMSchafer** (19.9) — 
   https://github.com/CoreyMSchafer
-- **dutc** (16.7) — Full-Stack, AI
-  https://github.com/dutc
 - **ninza-innovates** (14.0) — 
   https://github.com/ninza-innovates
 - **dayoonasanya** (13.4) — AI, Full-Stack
