@@ -18,7 +18,7 @@
   https://github.com/gunthercox
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
-- **jgamblin** (35.6) — AI
+- **jgamblin** (35.4) — AI
   https://github.com/jgamblin
 - **awni** (34.7) — AI
   https://github.com/awni
