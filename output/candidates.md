@@ -6,7 +6,7 @@
   https://github.com/jwasham
 - **santosomar** (55.7) — AI
   https://github.com/santosomar
-- **toxtli** (43.6) — AI
+- **toxtli** (44.4) — AI
   https://github.com/toxtli
 - **Bitwise-01** (42.2) — AI, Full-Stack
   https://github.com/Bitwise-01
@@ -16,8 +16,6 @@
   https://github.com/gunthercox
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
-- **jgamblin** (35.4) — AI
-  https://github.com/jgamblin
 - **jhaddix** (35.2) — AI
   https://github.com/jhaddix
 - **awni** (34.7) — AI
@@ -28,6 +26,8 @@
   https://github.com/hexsecteam
 - **PaulSec** (31.9) — AI
   https://github.com/PaulSec
+- **jgamblin** (31.4) — AI
+  https://github.com/jgamblin
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
 - **malwaredllc** (23.1) — AI, Full-Stack
