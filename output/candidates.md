@@ -20,14 +20,14 @@
   https://github.com/jhaddix
 - **awni** (34.7) — AI
   https://github.com/awni
+- **jgamblin** (33.5) — AI
+  https://github.com/jgamblin
 - **hexsecteam** (33.4) — AI
   https://github.com/hexsecteam
 - **HackerPoet** (33.3) — AI
   https://github.com/HackerPoet
 - **PaulSec** (31.9) — AI
   https://github.com/PaulSec
-- **jgamblin** (30.7) — AI
-  https://github.com/jgamblin
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
 - **malwaredllc** (23.1) — AI, Full-Stack
