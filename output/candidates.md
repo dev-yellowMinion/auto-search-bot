@@ -18,10 +18,10 @@
   https://github.com/adarob
 - **jhaddix** (35.2) — AI
   https://github.com/jhaddix
-- **jgamblin** (35.2) — AI
-  https://github.com/jgamblin
 - **awni** (34.7) — AI
   https://github.com/awni
+- **jgamblin** (34.2) — AI
+  https://github.com/jgamblin
 - **hexsecteam** (33.4) — AI
   https://github.com/hexsecteam
 - **HackerPoet** (33.3) — AI
