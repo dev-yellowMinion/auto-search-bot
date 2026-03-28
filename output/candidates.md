@@ -22,7 +22,7 @@
   https://github.com/awni
 - **jgamblin** (34.2) — AI
   https://github.com/jgamblin
-- **hexsecteam** (33.6) — AI
+- **hexsecteam** (33.8) — AI
   https://github.com/hexsecteam
 - **HackerPoet** (33.3) — AI
   https://github.com/HackerPoet
