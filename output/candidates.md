@@ -38,5 +38,5 @@
   https://github.com/CoreyMSchafer
 - **ninza-innovates** (14.0) — 
   https://github.com/ninza-innovates
-- **dayoonasanya** (13.4) — AI, Full-Stack
+- **dayoonasanya** (13.1) — AI, Full-Stack
   https://github.com/dayoonasanya
