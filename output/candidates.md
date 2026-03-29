@@ -28,10 +28,10 @@
   https://github.com/PaulSec
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
+- **jgamblin** (23.1) — AI
+  https://github.com/jgamblin
 - **malwaredllc** (23.1) — AI, Full-Stack
   https://github.com/malwaredllc
-- **jgamblin** (22.9) — AI
-  https://github.com/jgamblin
 - **mingyuliutw** (20.0) — AI
   https://github.com/mingyuliutw
 - **CoreyMSchafer** (19.9) — 
