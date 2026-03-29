@@ -32,10 +32,10 @@
   https://github.com/jgamblin
 - **malwaredllc** (23.1) — AI, Full-Stack
   https://github.com/malwaredllc
+- **CoreyMSchafer** (20.0) — 
+  https://github.com/CoreyMSchafer
 - **mingyuliutw** (20.0) — AI
   https://github.com/mingyuliutw
-- **CoreyMSchafer** (19.9) — 
-  https://github.com/CoreyMSchafer
 - **ninza-innovates** (14.0) — 
   https://github.com/ninza-innovates
 - **dayoonasanya** (13.1) — AI, Full-Stack
