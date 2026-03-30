@@ -20,7 +20,7 @@
   https://github.com/jhaddix
 - **awni** (34.7) — AI
   https://github.com/awni
-- **hexsecteam** (34.3) — AI
+- **hexsecteam** (34.4) — AI
   https://github.com/hexsecteam
 - **HackerPoet** (33.3) — AI
   https://github.com/HackerPoet
