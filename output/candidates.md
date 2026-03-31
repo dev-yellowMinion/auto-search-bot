@@ -8,7 +8,7 @@
   https://github.com/santosomar
 - **toxtli** (44.4) — AI
   https://github.com/toxtli
-- **Bitwise-01** (42.2) — AI, Full-Stack
+- **Bitwise-01** (39.2) — AI, Full-Stack
   https://github.com/Bitwise-01
 - **kvfrans** (38.7) — AI
   https://github.com/kvfrans
@@ -32,7 +32,7 @@
   https://github.com/adamdotdevin
 - **malwaredllc** (23.1) — AI, Full-Stack
   https://github.com/malwaredllc
-- **CoreyMSchafer** (20.0) — 
+- **CoreyMSchafer** (20.1) — 
   https://github.com/CoreyMSchafer
 - **mingyuliutw** (20.0) — AI
   https://github.com/mingyuliutw
