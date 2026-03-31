@@ -26,10 +26,10 @@
   https://github.com/HackerPoet
 - **PaulSec** (31.9) — AI
   https://github.com/PaulSec
+- **jgamblin** (27.5) — AI
+  https://github.com/jgamblin
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
-- **jgamblin** (23.5) — AI
-  https://github.com/jgamblin
 - **malwaredllc** (23.1) — AI, Full-Stack
   https://github.com/malwaredllc
 - **CoreyMSchafer** (20.1) — 
