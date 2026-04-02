@@ -16,14 +16,14 @@
   https://github.com/gunthercox
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
+- **jhaddix** (35.3) — AI
+  https://github.com/jhaddix
 - **awni** (34.7) — AI
   https://github.com/awni
 - **hexsecteam** (34.4) — AI
   https://github.com/hexsecteam
 - **HackerPoet** (33.3) — AI
   https://github.com/HackerPoet
-- **jhaddix** (32.3) — AI
-  https://github.com/jhaddix
 - **PaulSec** (31.9) — AI
   https://github.com/PaulSec
 - **jgamblin** (27.5) — AI
