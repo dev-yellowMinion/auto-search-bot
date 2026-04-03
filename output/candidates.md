@@ -32,7 +32,7 @@
   https://github.com/adamdotdevin
 - **malwaredllc** (23.1) — AI, Full-Stack
   https://github.com/malwaredllc
-- **CoreyMSchafer** (20.3) — 
+- **CoreyMSchafer** (20.4) — 
   https://github.com/CoreyMSchafer
 - **mingyuliutw** (20.0) — AI
   https://github.com/mingyuliutw
