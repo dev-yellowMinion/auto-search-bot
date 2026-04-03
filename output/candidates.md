@@ -20,7 +20,7 @@
   https://github.com/jhaddix
 - **awni** (34.7) — AI
   https://github.com/awni
-- **hexsecteam** (34.4) — AI
+- **hexsecteam** (34.5) — AI
   https://github.com/hexsecteam
 - **HackerPoet** (33.3) — AI
   https://github.com/HackerPoet
@@ -32,7 +32,7 @@
   https://github.com/adamdotdevin
 - **malwaredllc** (23.1) — AI, Full-Stack
   https://github.com/malwaredllc
-- **CoreyMSchafer** (20.2) — 
+- **CoreyMSchafer** (20.3) — 
   https://github.com/CoreyMSchafer
 - **mingyuliutw** (20.0) — AI
   https://github.com/mingyuliutw
