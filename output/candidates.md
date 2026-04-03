@@ -8,7 +8,7 @@
   https://github.com/santosomar
 - **toxtli** (44.4) — AI
   https://github.com/toxtli
-- **Bitwise-01** (39.2) — AI, Full-Stack
+- **Bitwise-01** (39.3) — AI, Full-Stack
   https://github.com/Bitwise-01
 - **kvfrans** (38.7) — AI
   https://github.com/kvfrans
