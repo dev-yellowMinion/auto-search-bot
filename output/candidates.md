@@ -1,5 +1,7 @@
 # US Full-Stack & AI Candidates
 
+- **dovvnloading** (103.0) — AI, Full-Stack
+  https://github.com/dovvnloading
 - **howl-anderson** (78.1) — AI, Full-Stack
   https://github.com/howl-anderson
 - **jwasham** (59.4) — AI, Full-Stack
@@ -30,8 +32,6 @@
   https://github.com/jgamblin
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
-- **malwaredllc** (23.1) — AI, Full-Stack
-  https://github.com/malwaredllc
 - **CoreyMSchafer** (21.4) — 
   https://github.com/CoreyMSchafer
 - **mingyuliutw** (20.0) — AI
