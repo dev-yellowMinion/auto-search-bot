@@ -28,7 +28,7 @@
   https://github.com/HackerPoet
 - **PaulSec** (31.9) — AI
   https://github.com/PaulSec
-- **jgamblin** (26.6) — AI
+- **jgamblin** (27.6) — AI
   https://github.com/jgamblin
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
