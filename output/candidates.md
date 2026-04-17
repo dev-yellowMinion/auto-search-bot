@@ -2,6 +2,8 @@
 
 - **dovvnloading** (103.1) — AI, Full-Stack
   https://github.com/dovvnloading
+- **dreamypro** (80.5) — Full-Stack, AI
+  https://github.com/dreamypro
 - **howl-anderson** (78.1) — AI, Full-Stack
   https://github.com/howl-anderson
 - **jwasham** (59.4) — AI, Full-Stack
@@ -34,8 +36,6 @@
   https://github.com/adamdotdevin
 - **CoreyMSchafer** (21.6) — 
   https://github.com/CoreyMSchafer
-- **mingyuliutw** (20.0) — AI
-  https://github.com/mingyuliutw
 - **ninza-innovates** (14.0) — 
   https://github.com/ninza-innovates
 - **dayoonasanya** (13.1) — AI, Full-Stack
