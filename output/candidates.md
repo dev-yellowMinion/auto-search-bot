@@ -32,7 +32,7 @@
   https://github.com/jgamblin
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
-- **CoreyMSchafer** (21.5) — 
+- **CoreyMSchafer** (21.6) — 
   https://github.com/CoreyMSchafer
 - **mingyuliutw** (20.0) — AI
   https://github.com/mingyuliutw
