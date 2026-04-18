@@ -2,7 +2,7 @@
 
 - **dovvnloading** (103.1) — AI, Full-Stack
   https://github.com/dovvnloading
-- **dreamypro** (80.5) — Full-Stack, AI
+- **dreamypro** (80.6) — Full-Stack, AI
   https://github.com/dreamypro
 - **howl-anderson** (78.1) — AI, Full-Stack
   https://github.com/howl-anderson
