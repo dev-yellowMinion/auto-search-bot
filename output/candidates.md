@@ -30,7 +30,7 @@
   https://github.com/HackerPoet
 - **PaulSec** (31.9) — AI
   https://github.com/PaulSec
-- **jgamblin** (31.4) — AI
+- **jgamblin** (31.5) — AI
   https://github.com/jgamblin
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
