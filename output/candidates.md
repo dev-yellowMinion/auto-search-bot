@@ -1,6 +1,6 @@
 # US Full-Stack & AI Candidates
 
-- **dovvnloading** (103.1) — AI, Full-Stack
+- **dovvnloading** (102.3) — AI, Full-Stack
   https://github.com/dovvnloading
 - **zha0090** (80.6) — AI, Full-Stack
   https://github.com/zha0090
@@ -30,7 +30,7 @@
   https://github.com/HackerPoet
 - **PaulSec** (31.9) — AI
   https://github.com/PaulSec
-- **jgamblin** (31.2) — AI
+- **jgamblin** (31.4) — AI
   https://github.com/jgamblin
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
