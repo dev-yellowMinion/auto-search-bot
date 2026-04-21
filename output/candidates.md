@@ -28,10 +28,10 @@
   https://github.com/hexsecteam
 - **HackerPoet** (33.3) — AI
   https://github.com/HackerPoet
-- **PaulSec** (31.9) — AI
-  https://github.com/PaulSec
 - **jgamblin** (31.5) — AI
   https://github.com/jgamblin
+- **PaulSec** (30.9) — AI
+  https://github.com/PaulSec
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
 - **CoreyMSchafer** (22.8) — 
