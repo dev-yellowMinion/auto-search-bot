@@ -2,13 +2,13 @@
 
 - **dovvnloading** (102.3) — AI, Full-Stack
   https://github.com/dovvnloading
-- **zha0090** (82.2) — Full-Stack, AI
+- **zha0090** (82.2) — AI, Full-Stack
   https://github.com/zha0090
 - **howl-anderson** (79.1) — AI, Full-Stack
   https://github.com/howl-anderson
 - **jwasham** (59.4) — AI, Full-Stack
   https://github.com/jwasham
-- **santosomar** (56.9) — AI
+- **santosomar** (57.0) — AI
   https://github.com/santosomar
 - **toxtli** (44.4) — AI
   https://github.com/toxtli
