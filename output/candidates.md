@@ -12,10 +12,10 @@
   https://github.com/santosomar
 - **toxtli** (44.4) — AI
   https://github.com/toxtli
+- **kvfrans** (39.4) — AI
+  https://github.com/kvfrans
 - **Bitwise-01** (39.3) — AI, Full-Stack
   https://github.com/Bitwise-01
-- **kvfrans** (38.7) — AI
-  https://github.com/kvfrans
 - **jhaddix** (38.0) — AI
   https://github.com/jhaddix
 - **gunthercox** (36.6) — AI, Full-Stack
