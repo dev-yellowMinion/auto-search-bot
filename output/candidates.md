@@ -34,7 +34,7 @@
   https://github.com/PaulSec
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
-- **CoreyMSchafer** (23.2) — 
+- **CoreyMSchafer** (23.3) — 
   https://github.com/CoreyMSchafer
 - **ninza-innovates** (14.0) — 
   https://github.com/ninza-innovates
