@@ -2,7 +2,7 @@
 
 - **dovvnloading** (102.3) — AI, Full-Stack
   https://github.com/dovvnloading
-- **zha0090** (83.0) — AI, Full-Stack
+- **zha0090** (83.3) — AI, Full-Stack
   https://github.com/zha0090
 - **howl-anderson** (79.1) — AI, Full-Stack
   https://github.com/howl-anderson
