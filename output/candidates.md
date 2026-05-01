@@ -24,7 +24,7 @@
   https://github.com/adarob
 - **awni** (34.9) — AI
   https://github.com/awni
-- **hexsecteam** (33.9) — AI
+- **hexsecteam** (34.4) — AI
   https://github.com/hexsecteam
 - **HackerPoet** (33.3) — AI
   https://github.com/HackerPoet
@@ -34,7 +34,7 @@
   https://github.com/PaulSec
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
-- **CoreyMSchafer** (23.4) — 
+- **CoreyMSchafer** (23.6) — 
   https://github.com/CoreyMSchafer
 - **ninza-innovates** (13.2) — 
   https://github.com/ninza-innovates
