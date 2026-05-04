@@ -8,7 +8,7 @@
   https://github.com/howl-anderson
 - **jwasham** (59.4) — AI, Full-Stack
   https://github.com/jwasham
-- **santosomar** (57.4) — AI
+- **santosomar** (57.3) — AI
   https://github.com/santosomar
 - **toxtli** (44.4) — AI
   https://github.com/toxtli
@@ -34,7 +34,7 @@
   https://github.com/PaulSec
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
-- **CoreyMSchafer** (24.2) — 
+- **CoreyMSchafer** (24.3) — 
   https://github.com/CoreyMSchafer
 - **ninza-innovates** (13.1) — 
   https://github.com/ninza-innovates
