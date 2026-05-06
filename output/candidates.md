@@ -1,6 +1,6 @@
 # US Full-Stack & AI Candidates
 
-- **dovvnloading** (102.5) — AI, Full-Stack
+- **dovvnloading** (102.6) — AI, Full-Stack
   https://github.com/dovvnloading
 - **zha0090** (83.5) — Full-Stack, AI
   https://github.com/zha0090
