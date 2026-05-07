@@ -24,7 +24,7 @@
   https://github.com/adarob
 - **awni** (34.9) — AI
   https://github.com/awni
-- **hexsecteam** (34.5) — AI
+- **hexsecteam** (34.3) — AI
   https://github.com/hexsecteam
 - **HackerPoet** (33.3) — AI
   https://github.com/HackerPoet
