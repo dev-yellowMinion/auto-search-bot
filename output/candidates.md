@@ -26,7 +26,7 @@
   https://github.com/awni
 - **hexsecteam** (34.3) — AI
   https://github.com/hexsecteam
-- **HackerPoet** (33.4) — AI
+- **HackerPoet** (33.5) — AI
   https://github.com/HackerPoet
 - **PaulSec** (30.9) — AI
   https://github.com/PaulSec
