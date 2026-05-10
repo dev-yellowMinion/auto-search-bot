@@ -6,7 +6,7 @@
   https://github.com/zha0090
 - **howl-anderson** (83.1) — AI, Full-Stack
   https://github.com/howl-anderson
-- **santosomar** (60.6) — AI
+- **santosomar** (60.8) — AI
   https://github.com/santosomar
 - **jwasham** (59.4) — AI, Full-Stack
   https://github.com/jwasham
