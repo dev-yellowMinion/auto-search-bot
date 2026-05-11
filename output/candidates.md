@@ -34,7 +34,7 @@
   https://github.com/jgamblin
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
-- **CoreyMSchafer** (24.5) — 
+- **CoreyMSchafer** (24.6) — 
   https://github.com/CoreyMSchafer
 - **ninza-innovates** (13.1) — 
   https://github.com/ninza-innovates
