@@ -22,10 +22,10 @@
   https://github.com/gunthercox
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
+- **hexsecteam** (35.3) — AI
+  https://github.com/hexsecteam
 - **awni** (35.0) — AI
   https://github.com/awni
-- **hexsecteam** (35.0) — AI
-  https://github.com/hexsecteam
 - **HackerPoet** (33.8) — AI
   https://github.com/HackerPoet
 - **PaulSec** (30.9) — AI
