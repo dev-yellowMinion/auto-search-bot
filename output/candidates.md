@@ -22,7 +22,7 @@
   https://github.com/gunthercox
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
-- **hexsecteam** (35.3) — AI
+- **hexsecteam** (35.4) — AI
   https://github.com/hexsecteam
 - **awni** (35.0) — AI
   https://github.com/awni
