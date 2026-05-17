@@ -28,10 +28,10 @@
   https://github.com/awni
 - **HackerPoet** (33.8) — AI
   https://github.com/HackerPoet
+- **jgamblin** (31.4) — AI
+  https://github.com/jgamblin
 - **PaulSec** (30.9) — AI
   https://github.com/PaulSec
-- **jgamblin** (28.4) — AI
-  https://github.com/jgamblin
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
 - **CoreyMSchafer** (24.6) — 
