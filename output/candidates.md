@@ -24,12 +24,12 @@
   https://github.com/adarob
 - **hexsecteam** (35.6) — AI
   https://github.com/hexsecteam
+- **jgamblin** (35.4) — AI
+  https://github.com/jgamblin
 - **awni** (35.0) — AI
   https://github.com/awni
 - **HackerPoet** (33.8) — AI
   https://github.com/HackerPoet
-- **jgamblin** (31.4) — AI
-  https://github.com/jgamblin
 - **PaulSec** (30.9) — AI
   https://github.com/PaulSec
 - **adamdotdevin** (25.3) — Full-Stack, AI
