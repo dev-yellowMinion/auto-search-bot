@@ -1,9 +1,9 @@
 # US Full-Stack & AI Candidates
 
+- **zha0090** (104.6) — AI, Full-Stack
+  https://github.com/zha0090
 - **dovvnloading** (104.4) — AI, Full-Stack
   https://github.com/dovvnloading
-- **zha0090** (101.2) — AI, Full-Stack
-  https://github.com/zha0090
 - **howl-anderson** (83.1) — AI, Full-Stack
   https://github.com/howl-anderson
 - **santosomar** (61.5) — AI
