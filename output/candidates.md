@@ -2,7 +2,7 @@
 
 - **dovvnloading** (104.4) — AI, Full-Stack
   https://github.com/dovvnloading
-- **zha0090** (95.2) — AI, Full-Stack
+- **zha0090** (101.2) — AI, Full-Stack
   https://github.com/zha0090
 - **howl-anderson** (83.1) — AI, Full-Stack
   https://github.com/howl-anderson
@@ -24,10 +24,10 @@
   https://github.com/adarob
 - **hexsecteam** (35.6) — AI
   https://github.com/hexsecteam
+- **jgamblin** (35.1) — AI
+  https://github.com/jgamblin
 - **awni** (35.0) — AI
   https://github.com/awni
-- **jgamblin** (35.0) — AI
-  https://github.com/jgamblin
 - **HackerPoet** (33.8) — AI
   https://github.com/HackerPoet
 - **PaulSec** (30.9) — AI
