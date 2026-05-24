@@ -1,6 +1,6 @@
 # US Full-Stack & AI Candidates
 
-- **zha0090** (104.7) — AI, Full-Stack
+- **zha0090** (104.9) — AI, Full-Stack
   https://github.com/zha0090
 - **dovvnloading** (104.4) — AI, Full-Stack
   https://github.com/dovvnloading
@@ -34,7 +34,7 @@
   https://github.com/PaulSec
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
-- **CoreyMSchafer** (24.7) — 
+- **CoreyMSchafer** (24.8) — 
   https://github.com/CoreyMSchafer
 - **ninza-innovates** (13.1) — 
   https://github.com/ninza-innovates
