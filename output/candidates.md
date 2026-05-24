@@ -24,10 +24,10 @@
   https://github.com/adarob
 - **hexsecteam** (35.6) — AI
   https://github.com/hexsecteam
-- **jgamblin** (35.1) — AI
-  https://github.com/jgamblin
 - **awni** (35.0) — AI
   https://github.com/awni
+- **jgamblin** (34.1) — AI
+  https://github.com/jgamblin
 - **HackerPoet** (33.8) — AI
   https://github.com/HackerPoet
 - **PaulSec** (30.9) — AI
