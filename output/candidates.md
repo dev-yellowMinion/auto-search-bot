@@ -30,7 +30,7 @@
   https://github.com/jgamblin
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
-- **PaulSec** (30.9) — AI
+- **PaulSec** (26.8) — AI
   https://github.com/PaulSec
 - **CoreyMSchafer** (25.9) — 
   https://github.com/CoreyMSchafer
