@@ -1,7 +1,5 @@
 # US Full-Stack & AI Candidates
 
-- **zha0090** (123.4) — AI, Full-Stack
-  https://github.com/zha0090
 - **dovvnloading** (104.4) — AI, Full-Stack
   https://github.com/dovvnloading
 - **howl-anderson** (83.1) — AI, Full-Stack
@@ -36,6 +34,8 @@
   https://github.com/CoreyMSchafer
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
+- **mingyuliutw** (20.0) — AI
+  https://github.com/mingyuliutw
 - **ninza-innovates** (13.1) — 
   https://github.com/ninza-innovates
 - **dayoonasanya** (12.8) — AI, Full-Stack
