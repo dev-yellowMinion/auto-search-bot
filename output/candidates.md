@@ -28,7 +28,7 @@
   https://github.com/awni
 - **jgamblin** (34.7) — AI
   https://github.com/jgamblin
-- **HackerPoet** (33.8) — AI
+- **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
 - **PaulSec** (30.9) — AI
   https://github.com/PaulSec
