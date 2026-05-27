@@ -24,7 +24,7 @@
   https://github.com/hexsecteam
 - **awni** (35.0) — AI
   https://github.com/awni
-- **jgamblin** (34.7) — AI
+- **jgamblin** (34.5) — AI
   https://github.com/jgamblin
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
