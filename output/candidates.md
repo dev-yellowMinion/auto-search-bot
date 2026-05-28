@@ -34,8 +34,6 @@
   https://github.com/CoreyMSchafer
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
-- **mingyuliutw** (20.0) — AI
-  https://github.com/mingyuliutw
 - **ninza-innovates** (13.1) — 
   https://github.com/ninza-innovates
 - **dayoonasanya** (12.8) — AI, Full-Stack
