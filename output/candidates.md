@@ -8,7 +8,7 @@
   https://github.com/santosomar
 - **jwasham** (59.4) — AI, Full-Stack
   https://github.com/jwasham
-- **toxtli** (44.4) — AI
+- **toxtli** (42.0) — AI
   https://github.com/toxtli
 - **kvfrans** (39.4) — AI
   https://github.com/kvfrans
