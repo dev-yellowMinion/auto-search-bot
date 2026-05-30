@@ -30,7 +30,7 @@
   https://github.com/HackerPoet
 - **PaulSec** (26.8) — AI
   https://github.com/PaulSec
-- **CoreyMSchafer** (25.9) — 
+- **CoreyMSchafer** (26.0) — 
   https://github.com/CoreyMSchafer
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
