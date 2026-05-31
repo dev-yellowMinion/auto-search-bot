@@ -10,10 +10,10 @@
   https://github.com/jwasham
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
+- **Bitwise-01** (42.0) — AI, Full-Stack
+  https://github.com/Bitwise-01
 - **kvfrans** (39.4) — AI
   https://github.com/kvfrans
-- **Bitwise-01** (39.3) — AI, Full-Stack
-  https://github.com/Bitwise-01
 - **jhaddix** (38.0) — AI
   https://github.com/jhaddix
 - **gunthercox** (36.6) — AI, Full-Stack
