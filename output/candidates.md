@@ -1,8 +1,8 @@
 # US Full-Stack & AI Candidates
 
-- **dovvnloading** (104.5) — Full-Stack, AI
+- **dovvnloading** (104.5) — AI, Full-Stack
   https://github.com/dovvnloading
-- **howl-anderson** (83.1) — AI, Full-Stack
+- **howl-anderson** (81.1) — AI
   https://github.com/howl-anderson
 - **santosomar** (61.5) — AI
   https://github.com/santosomar
