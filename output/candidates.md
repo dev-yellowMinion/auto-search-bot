@@ -22,10 +22,10 @@
   https://github.com/adarob
 - **hexsecteam** (35.6) — AI
   https://github.com/hexsecteam
+- **jgamblin** (35.2) — AI
+  https://github.com/jgamblin
 - **awni** (35.0) — AI
   https://github.com/awni
-- **jgamblin** (34.5) — AI
-  https://github.com/jgamblin
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
 - **PaulSec** (26.8) — AI
