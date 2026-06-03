@@ -1,6 +1,6 @@
 # US Full-Stack & AI Candidates
 
-- **dovvnloading** (104.5) — AI, Full-Stack
+- **dovvnloading** (104.7) — Full-Stack, AI
   https://github.com/dovvnloading
 - **howl-anderson** (81.1) — AI
   https://github.com/howl-anderson
