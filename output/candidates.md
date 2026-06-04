@@ -2,7 +2,7 @@
 
 - **dovvnloading** (104.7) — Full-Stack, AI
   https://github.com/dovvnloading
-- **howl-anderson** (81.1) — AI
+- **howl-anderson** (87.1) — AI
   https://github.com/howl-anderson
 - **santosomar** (61.5) — AI
   https://github.com/santosomar
