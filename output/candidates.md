@@ -4,10 +4,10 @@
   https://github.com/dovvnloading
 - **howl-anderson** (87.1) — AI
   https://github.com/howl-anderson
-- **santosomar** (61.5) — AI
-  https://github.com/santosomar
 - **jwasham** (59.4) — AI, Full-Stack
   https://github.com/jwasham
+- **santosomar** (57.7) — AI
+  https://github.com/santosomar
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
 - **Bitwise-01** (42.0) — AI, Full-Stack
@@ -38,5 +38,5 @@
   https://github.com/ninza-innovates
 - **dayoonasanya** (12.8) — AI, Full-Stack
   https://github.com/dayoonasanya
-- **pwnedroot** (8.6) — AI
+- **pwnedroot** (8.9) — AI
   https://github.com/pwnedroot
