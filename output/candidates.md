@@ -24,13 +24,13 @@
   https://github.com/hexsecteam
 - **jgamblin** (35.2) — AI
   https://github.com/jgamblin
-- **awni** (35.0) — AI
+- **awni** (35.1) — AI
   https://github.com/awni
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
 - **PaulSec** (26.8) — AI
   https://github.com/PaulSec
-- **CoreyMSchafer** (26.0) — 
+- **CoreyMSchafer** (26.1) — 
   https://github.com/CoreyMSchafer
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
