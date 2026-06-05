@@ -38,5 +38,5 @@
   https://github.com/ninza-innovates
 - **dayoonasanya** (12.8) — AI, Full-Stack
   https://github.com/dayoonasanya
-- **pwnedroot** (8.1) — AI
+- **pwnedroot** (8.5) — AI
   https://github.com/pwnedroot
