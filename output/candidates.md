@@ -1,6 +1,6 @@
 # US Full-Stack & AI Candidates
 
-- **dovvnloading** (104.6) — AI, Full-Stack
+- **dovvnloading** (104.7) — AI, Full-Stack
   https://github.com/dovvnloading
 - **howl-anderson** (87.1) — AI
   https://github.com/howl-anderson
@@ -30,7 +30,7 @@
   https://github.com/HackerPoet
 - **PaulSec** (26.8) — AI
   https://github.com/PaulSec
-- **CoreyMSchafer** (26.1) — 
+- **CoreyMSchafer** (26.2) — 
   https://github.com/CoreyMSchafer
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
