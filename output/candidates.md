@@ -20,7 +20,7 @@
   https://github.com/gunthercox
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
-- **hexsecteam** (35.6) — AI
+- **hexsecteam** (35.7) — AI
   https://github.com/hexsecteam
 - **jgamblin** (35.2) — AI
   https://github.com/jgamblin
