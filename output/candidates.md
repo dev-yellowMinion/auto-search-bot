@@ -2,12 +2,12 @@
 
 - **howl-anderson** (87.1) — AI
   https://github.com/howl-anderson
-- **dovvnloading** (72.4) — AI, Full-Stack
-  https://github.com/dovvnloading
 - **jwasham** (59.7) — AI, Full-Stack
   https://github.com/jwasham
 - **santosomar** (54.9) — AI
   https://github.com/santosomar
+- **dovvnloading** (45.6) — AI, Full-Stack
+  https://github.com/dovvnloading
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
 - **Bitwise-01** (42.0) — AI, Full-Stack
