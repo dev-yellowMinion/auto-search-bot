@@ -1,9 +1,9 @@
 # US Full-Stack & AI Candidates
 
-- **dovvnloading** (104.7) — AI, Full-Stack
-  https://github.com/dovvnloading
 - **howl-anderson** (87.1) — AI
   https://github.com/howl-anderson
+- **dovvnloading** (72.4) — AI, Full-Stack
+  https://github.com/dovvnloading
 - **jwasham** (59.7) — AI, Full-Stack
   https://github.com/jwasham
 - **santosomar** (54.9) — AI
@@ -14,6 +14,8 @@
   https://github.com/Bitwise-01
 - **kvfrans** (39.4) — AI
   https://github.com/kvfrans
+- **jgamblin** (38.2) — AI
+  https://github.com/jgamblin
 - **jhaddix** (38.0) — AI
   https://github.com/jhaddix
 - **gunthercox** (36.6) — AI, Full-Stack
@@ -22,8 +24,6 @@
   https://github.com/adarob
 - **hexsecteam** (35.7) — AI
   https://github.com/hexsecteam
-- **jgamblin** (35.2) — AI
-  https://github.com/jgamblin
 - **awni** (35.1) — AI
   https://github.com/awni
 - **HackerPoet** (33.9) — AI
