@@ -28,10 +28,10 @@
   https://github.com/jgamblin
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
+- **CoreyMSchafer** (26.8) — 
+  https://github.com/CoreyMSchafer
 - **PaulSec** (26.8) — AI
   https://github.com/PaulSec
-- **CoreyMSchafer** (26.1) — 
-  https://github.com/CoreyMSchafer
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
 - **ninza-innovates** (13.1) — 
