@@ -6,7 +6,7 @@
   https://github.com/jwasham
 - **santosomar** (54.9) — AI
   https://github.com/santosomar
-- **dovvnloading** (48.7) — AI, Full-Stack
+- **dovvnloading** (45.6) — AI, Full-Stack
   https://github.com/dovvnloading
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
@@ -24,7 +24,7 @@
   https://github.com/hexsecteam
 - **awni** (35.1) — AI
   https://github.com/awni
-- **jgamblin** (34.5) — AI
+- **jgamblin** (34.9) — AI
   https://github.com/jgamblin
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
