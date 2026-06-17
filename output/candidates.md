@@ -12,7 +12,7 @@
   https://github.com/toxtli
 - **Bitwise-01** (42.0) — AI, Full-Stack
   https://github.com/Bitwise-01
-- **kvfrans** (39.4) — AI
+- **kvfrans** (38.5) — AI
   https://github.com/kvfrans
 - **jhaddix** (38.2) — AI
   https://github.com/jhaddix
