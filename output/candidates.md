@@ -16,7 +16,7 @@
   https://github.com/kvfrans
 - **jhaddix** (38.2) — AI
   https://github.com/jhaddix
-- **gunthercox** (36.6) — AI, Full-Stack
+- **gunthercox** (36.5) — AI, Full-Stack
   https://github.com/gunthercox
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
