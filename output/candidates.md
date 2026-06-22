@@ -16,13 +16,13 @@
   https://github.com/kvfrans
 - **jhaddix** (38.0) — AI
   https://github.com/jhaddix
-- **hexsecteam** (37.0) — AI
+- **hexsecteam** (37.1) — AI
   https://github.com/hexsecteam
 - **gunthercox** (36.5) — AI, Full-Stack
   https://github.com/gunthercox
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
-- **awni** (35.1) — AI
+- **awni** (35.2) — AI
   https://github.com/awni
 - **jgamblin** (34.9) — AI
   https://github.com/jgamblin
