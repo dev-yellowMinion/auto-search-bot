@@ -16,7 +16,7 @@
   https://github.com/kvfrans
 - **jhaddix** (38.0) — AI
   https://github.com/jhaddix
-- **hexsecteam** (37.1) — AI
+- **hexsecteam** (37.2) — AI
   https://github.com/hexsecteam
 - **gunthercox** (36.5) — AI, Full-Stack
   https://github.com/gunthercox
@@ -24,10 +24,10 @@
   https://github.com/adarob
 - **awni** (35.2) — AI
   https://github.com/awni
-- **jgamblin** (34.9) — AI
-  https://github.com/jgamblin
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
+- **jgamblin** (32.5) — AI
+  https://github.com/jgamblin
 - **CoreyMSchafer** (26.9) — 
   https://github.com/CoreyMSchafer
 - **PaulSec** (26.8) — AI
