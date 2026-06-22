@@ -26,7 +26,7 @@
   https://github.com/awni
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
-- **jgamblin** (32.5) — AI
+- **jgamblin** (33.5) — AI
   https://github.com/jgamblin
 - **CoreyMSchafer** (26.9) — 
   https://github.com/CoreyMSchafer
