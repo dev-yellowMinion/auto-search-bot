@@ -16,7 +16,7 @@
   https://github.com/kvfrans
 - **jhaddix** (38.0) — AI
   https://github.com/jhaddix
-- **hexsecteam** (37.2) — AI
+- **hexsecteam** (37.3) — AI
   https://github.com/hexsecteam
 - **gunthercox** (36.5) — AI, Full-Stack
   https://github.com/gunthercox
