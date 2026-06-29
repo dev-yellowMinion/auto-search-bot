@@ -28,7 +28,7 @@
   https://github.com/awni
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
-- **CoreyMSchafer** (26.9) — 
+- **CoreyMSchafer** (26.8) — 
   https://github.com/CoreyMSchafer
 - **PaulSec** (26.8) — AI
   https://github.com/PaulSec
