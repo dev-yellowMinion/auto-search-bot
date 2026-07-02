@@ -22,7 +22,7 @@
   https://github.com/adarob
 - **awni** (35.2) — AI
   https://github.com/awni
-- **gunthercox** (35.2) — Full-Stack, AI
+- **gunthercox** (35.2) — AI, Full-Stack
   https://github.com/gunthercox
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
