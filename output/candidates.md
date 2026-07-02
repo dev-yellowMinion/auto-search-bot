@@ -24,10 +24,10 @@
   https://github.com/awni
 - **gunthercox** (35.2) — AI, Full-Stack
   https://github.com/gunthercox
+- **jgamblin** (34.2) — AI
+  https://github.com/jgamblin
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
-- **jgamblin** (33.2) — AI
-  https://github.com/jgamblin
 - **CoreyMSchafer** (26.8) — 
   https://github.com/CoreyMSchafer
 - **PaulSec** (26.8) — AI
