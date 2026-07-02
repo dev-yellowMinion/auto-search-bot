@@ -14,20 +14,20 @@
   https://github.com/Bitwise-01
 - **kvfrans** (38.5) — AI
   https://github.com/kvfrans
-- **hexsecteam** (37.3) — AI
+- **hexsecteam** (37.4) — AI
   https://github.com/hexsecteam
 - **jhaddix** (37.0) — AI
   https://github.com/jhaddix
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
-- **jgamblin** (36.1) — AI
-  https://github.com/jgamblin
 - **awni** (35.2) — AI
   https://github.com/awni
 - **gunthercox** (35.2) — Full-Stack, AI
   https://github.com/gunthercox
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
+- **jgamblin** (33.2) — AI
+  https://github.com/jgamblin
 - **CoreyMSchafer** (26.8) — 
   https://github.com/CoreyMSchafer
 - **PaulSec** (26.8) — AI
