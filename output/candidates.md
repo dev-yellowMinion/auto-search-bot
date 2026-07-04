@@ -34,9 +34,9 @@
   https://github.com/PaulSec
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
-- **ninza-innovates** (13.1) — 
-  https://github.com/ninza-innovates
 - **dayoonasanya** (12.8) — AI, Full-Stack
   https://github.com/dayoonasanya
+- **ninza-innovates** (12.7) — 
+  https://github.com/ninza-innovates
 - **pwnedroot** (9.1) — AI
   https://github.com/pwnedroot
