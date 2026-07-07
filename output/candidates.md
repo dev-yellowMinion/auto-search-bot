@@ -10,7 +10,7 @@
   https://github.com/dovvnloading
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
-- **Bitwise-01** (42.0) — AI, Full-Stack
+- **Bitwise-01** (41.0) — AI, Full-Stack
   https://github.com/Bitwise-01
 - **kvfrans** (38.5) — AI
   https://github.com/kvfrans
