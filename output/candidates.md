@@ -14,6 +14,8 @@
   https://github.com/Bitwise-01
 - **kvfrans** (38.5) — AI
   https://github.com/kvfrans
+- **jgamblin** (37.6) — AI
+  https://github.com/jgamblin
 - **hexsecteam** (37.4) — AI
   https://github.com/hexsecteam
 - **jhaddix** (37.0) — AI
@@ -24,8 +26,6 @@
   https://github.com/awni
 - **gunthercox** (35.2) — AI, Full-Stack
   https://github.com/gunthercox
-- **jgamblin** (34.6) — AI
-  https://github.com/jgamblin
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
 - **CoreyMSchafer** (26.9) — 
