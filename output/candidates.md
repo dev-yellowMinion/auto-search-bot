@@ -4,7 +4,7 @@
   https://github.com/howl-anderson
 - **jwasham** (59.7) — AI, Full-Stack
   https://github.com/jwasham
-- **santosomar** (55.0) — AI
+- **santosomar** (51.8) — AI
   https://github.com/santosomar
 - **dovvnloading** (45.6) — AI, Full-Stack
   https://github.com/dovvnloading
