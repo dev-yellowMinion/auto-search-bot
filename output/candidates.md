@@ -2,7 +2,7 @@
 
 - **howl-anderson** (79.2) — AI
   https://github.com/howl-anderson
-- **jwasham** (59.7) — AI, Full-Stack
+- **jwasham** (60.4) — AI, Full-Stack
   https://github.com/jwasham
 - **santosomar** (51.8) — AI
   https://github.com/santosomar
