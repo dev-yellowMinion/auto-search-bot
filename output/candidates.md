@@ -18,7 +18,7 @@
   https://github.com/jgamblin
 - **hexsecteam** (37.4) — AI
   https://github.com/hexsecteam
-- **jhaddix** (37.0) — AI
+- **jhaddix** (37.1) — AI
   https://github.com/jhaddix
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
