@@ -6,7 +6,7 @@
   https://github.com/jwasham
 - **santosomar** (51.8) — AI
   https://github.com/santosomar
-- **dovvnloading** (45.7) — AI, Full-Stack
+- **dovvnloading** (42.5) — AI, Full-Stack
   https://github.com/dovvnloading
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
@@ -36,7 +36,7 @@
   https://github.com/adamdotdevin
 - **dayoonasanya** (12.8) — AI, Full-Stack
   https://github.com/dayoonasanya
-- **ninza-innovates** (12.4) — 
+- **ninza-innovates** (12.5) — 
   https://github.com/ninza-innovates
 - **pwnedroot** (9.2) — AI
   https://github.com/pwnedroot
