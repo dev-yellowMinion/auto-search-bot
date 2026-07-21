@@ -26,7 +26,7 @@
   https://github.com/gunthercox
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
-- **jgamblin** (32.6) — AI
+- **jgamblin** (31.6) — AI
   https://github.com/jgamblin
 - **CoreyMSchafer** (27.0) — 
   https://github.com/CoreyMSchafer
