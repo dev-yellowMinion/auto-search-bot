@@ -28,7 +28,7 @@
   https://github.com/HackerPoet
 - **jgamblin** (33.6) — AI
   https://github.com/jgamblin
-- **CoreyMSchafer** (26.9) — 
+- **CoreyMSchafer** (27.0) — 
   https://github.com/CoreyMSchafer
 - **PaulSec** (26.8) — AI
   https://github.com/PaulSec
