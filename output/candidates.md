@@ -6,7 +6,7 @@
   https://github.com/jwasham
 - **santosomar** (51.8) — AI
   https://github.com/santosomar
-- **dovvnloading** (42.5) — AI, Full-Stack
+- **dovvnloading** (42.5) — Full-Stack, AI
   https://github.com/dovvnloading
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
