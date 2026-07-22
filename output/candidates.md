@@ -18,6 +18,8 @@
   https://github.com/jhaddix
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
+- **jgamblin** (35.6) — AI
+  https://github.com/jgamblin
 - **awni** (35.2) — AI
   https://github.com/awni
 - **gunthercox** (35.2) — AI, Full-Stack
@@ -26,8 +28,6 @@
   https://github.com/dovvnloading
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
-- **jgamblin** (31.6) — AI
-  https://github.com/jgamblin
 - **CoreyMSchafer** (27.0) — 
   https://github.com/CoreyMSchafer
 - **PaulSec** (26.8) — AI
