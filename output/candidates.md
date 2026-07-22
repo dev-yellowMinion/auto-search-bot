@@ -6,8 +6,6 @@
   https://github.com/jwasham
 - **santosomar** (51.8) — AI
   https://github.com/santosomar
-- **dovvnloading** (42.5) — Full-Stack, AI
-  https://github.com/dovvnloading
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
 - **Bitwise-01** (41.0) — AI, Full-Stack
@@ -24,6 +22,8 @@
   https://github.com/awni
 - **gunthercox** (35.2) — AI, Full-Stack
   https://github.com/gunthercox
+- **dovvnloading** (34.1) — AI, Full-Stack
+  https://github.com/dovvnloading
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
 - **jgamblin** (31.6) — AI
