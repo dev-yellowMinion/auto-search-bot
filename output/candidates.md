@@ -24,7 +24,7 @@
   https://github.com/awni
 - **gunthercox** (35.2) — AI, Full-Stack
   https://github.com/gunthercox
-- **dovvnloading** (34.1) — AI, Full-Stack
+- **dovvnloading** (34.2) — AI, Full-Stack
   https://github.com/dovvnloading
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
@@ -38,5 +38,5 @@
   https://github.com/dayoonasanya
 - **ninza-innovates** (12.5) — 
   https://github.com/ninza-innovates
-- **pwnedroot** (9.2) — AI
+- **pwnedroot** (9.3) — AI
   https://github.com/pwnedroot
