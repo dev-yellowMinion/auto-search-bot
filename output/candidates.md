@@ -24,10 +24,10 @@
   https://github.com/awni
 - **gunthercox** (35.2) — AI, Full-Stack
   https://github.com/gunthercox
-- **dovvnloading** (34.2) — AI, Full-Stack
-  https://github.com/dovvnloading
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
+- **dovvnloading** (33.2) — AI, Full-Stack
+  https://github.com/dovvnloading
 - **CoreyMSchafer** (27.0) — 
   https://github.com/CoreyMSchafer
 - **PaulSec** (26.8) — AI
