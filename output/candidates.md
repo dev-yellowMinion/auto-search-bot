@@ -18,8 +18,6 @@
   https://github.com/jhaddix
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
-- **dovvnloading** (36.3) — AI, Full-Stack
-  https://github.com/dovvnloading
 - **jgamblin** (35.7) — AI
   https://github.com/jgamblin
 - **awni** (35.2) — AI
@@ -28,6 +26,8 @@
   https://github.com/gunthercox
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
+- **dovvnloading** (33.2) — AI, Full-Stack
+  https://github.com/dovvnloading
 - **CoreyMSchafer** (27.0) — 
   https://github.com/CoreyMSchafer
 - **PaulSec** (26.8) — AI
