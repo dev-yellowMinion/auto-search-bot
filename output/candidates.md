@@ -18,7 +18,7 @@
   https://github.com/jhaddix
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
-- **jgamblin** (35.6) — AI
+- **jgamblin** (35.7) — AI
   https://github.com/jgamblin
 - **awni** (35.2) — AI
   https://github.com/awni
