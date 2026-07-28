@@ -4,7 +4,7 @@
   https://github.com/howl-anderson
 - **jwasham** (60.4) — AI, Full-Stack
   https://github.com/jwasham
-- **santosomar** (50.9) — AI
+- **santosomar** (53.9) — AI
   https://github.com/santosomar
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
@@ -26,7 +26,7 @@
   https://github.com/gunthercox
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
-- **dovvnloading** (33.3) — AI, Full-Stack
+- **dovvnloading** (33.2) — AI, Full-Stack
   https://github.com/dovvnloading
 - **CoreyMSchafer** (27.0) — 
   https://github.com/CoreyMSchafer
