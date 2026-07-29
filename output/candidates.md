@@ -16,10 +16,10 @@
   https://github.com/hexsecteam
 - **jhaddix** (37.1) — AI
   https://github.com/jhaddix
+- **jgamblin** (36.4) — AI
+  https://github.com/jgamblin
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
-- **jgamblin** (35.7) — AI
-  https://github.com/jgamblin
 - **awni** (35.2) — AI
   https://github.com/awni
 - **gunthercox** (35.2) — AI, Full-Stack
@@ -30,7 +30,7 @@
   https://github.com/dovvnloading
 - **CoreyMSchafer** (27.0) — 
   https://github.com/CoreyMSchafer
-- **PaulSec** (26.8) — AI
+- **PaulSec** (26.7) — AI
   https://github.com/PaulSec
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
