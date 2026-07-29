@@ -36,7 +36,7 @@
   https://github.com/adamdotdevin
 - **dayoonasanya** (12.8) — AI, Full-Stack
   https://github.com/dayoonasanya
-- **ninza-innovates** (12.4) — 
+- **ninza-innovates** (12.2) — 
   https://github.com/ninza-innovates
 - **pwnedroot** (9.8) — AI
   https://github.com/pwnedroot
