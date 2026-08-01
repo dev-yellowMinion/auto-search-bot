@@ -26,7 +26,7 @@
   https://github.com/gunthercox
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
-- **dovvnloading** (33.3) — AI, Full-Stack
+- **dovvnloading** (33.2) — AI, Full-Stack
   https://github.com/dovvnloading
 - **CoreyMSchafer** (27.0) — 
   https://github.com/CoreyMSchafer
