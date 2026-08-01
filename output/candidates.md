@@ -28,7 +28,7 @@
   https://github.com/HackerPoet
 - **dovvnloading** (33.2) — AI, Full-Stack
   https://github.com/dovvnloading
-- **CoreyMSchafer** (27.0) — 
+- **CoreyMSchafer** (27.1) — 
   https://github.com/CoreyMSchafer
 - **PaulSec** (26.7) — AI
   https://github.com/PaulSec
