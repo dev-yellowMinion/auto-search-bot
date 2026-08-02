@@ -14,8 +14,6 @@
   https://github.com/kvfrans
 - **hexsecteam** (37.6) — AI
   https://github.com/hexsecteam
-- **jhaddix** (37.1) — AI
-  https://github.com/jhaddix
 - **jgamblin** (36.7) — AI
   https://github.com/jgamblin
 - **adarob** (36.4) — Full-Stack, AI
@@ -24,6 +22,8 @@
   https://github.com/awni
 - **gunthercox** (35.2) — AI, Full-Stack
   https://github.com/gunthercox
+- **jhaddix** (34.1) — AI
+  https://github.com/jhaddix
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
 - **dovvnloading** (33.2) — AI, Full-Stack
