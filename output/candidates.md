@@ -14,8 +14,6 @@
   https://github.com/kvfrans
 - **hexsecteam** (37.6) — AI
   https://github.com/hexsecteam
-- **jgamblin** (36.7) — AI
-  https://github.com/jgamblin
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
 - **awni** (35.2) — AI
@@ -28,6 +26,8 @@
   https://github.com/HackerPoet
 - **dovvnloading** (33.2) — AI, Full-Stack
   https://github.com/dovvnloading
+- **jgamblin** (32.7) — AI
+  https://github.com/jgamblin
 - **CoreyMSchafer** (27.2) — 
   https://github.com/CoreyMSchafer
 - **PaulSec** (26.7) — AI
