@@ -12,7 +12,7 @@
   https://github.com/Bitwise-01
 - **kvfrans** (38.5) — AI
   https://github.com/kvfrans
-- **hexsecteam** (37.6) — AI
+- **hexsecteam** (37.7) — AI
   https://github.com/hexsecteam
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
