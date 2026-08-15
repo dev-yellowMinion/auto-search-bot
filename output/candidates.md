@@ -10,12 +10,12 @@
   https://github.com/toxtli
 - **Bitwise-01** (41.0) — AI, Full-Stack
   https://github.com/Bitwise-01
+- **jgamblin** (38.8) — AI
+  https://github.com/jgamblin
 - **kvfrans** (38.5) — AI
   https://github.com/kvfrans
 - **hexsecteam** (37.7) — AI
   https://github.com/hexsecteam
-- **jgamblin** (36.7) — AI
-  https://github.com/jgamblin
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
 - **awni** (35.2) — AI
