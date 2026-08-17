@@ -10,7 +10,7 @@
   https://github.com/toxtli
 - **Bitwise-01** (41.0) — AI, Full-Stack
   https://github.com/Bitwise-01
-- **jgamblin** (38.8) — AI
+- **jgamblin** (38.9) — AI
   https://github.com/jgamblin
 - **kvfrans** (38.5) — AI
   https://github.com/kvfrans
