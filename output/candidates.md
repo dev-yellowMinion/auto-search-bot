@@ -12,7 +12,7 @@
   https://github.com/Bitwise-01
 - **kvfrans** (38.5) — AI
   https://github.com/kvfrans
-- **jgamblin** (38.0) — AI
+- **jgamblin** (38.1) — AI
   https://github.com/jgamblin
 - **hexsecteam** (37.7) — AI
   https://github.com/hexsecteam
