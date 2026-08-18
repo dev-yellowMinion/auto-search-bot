@@ -20,14 +20,14 @@
   https://github.com/adarob
 - **awni** (35.2) — AI
   https://github.com/awni
+- **dovvnloading** (35.2) — AI, Full-Stack
+  https://github.com/dovvnloading
 - **gunthercox** (35.2) — AI, Full-Stack
   https://github.com/gunthercox
 - **jhaddix** (34.3) — AI
   https://github.com/jhaddix
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
-- **dovvnloading** (33.2) — AI, Full-Stack
-  https://github.com/dovvnloading
 - **CoreyMSchafer** (27.2) — 
   https://github.com/CoreyMSchafer
 - **PaulSec** (26.7) — AI
