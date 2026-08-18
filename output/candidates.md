@@ -34,7 +34,7 @@
   https://github.com/PaulSec
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
-- **dayoonasanya** (12.8) — AI, Full-Stack
+- **dayoonasanya** (12.6) — AI, Full-Stack
   https://github.com/dayoonasanya
 - **ninza-innovates** (12.0) — 
   https://github.com/ninza-innovates
