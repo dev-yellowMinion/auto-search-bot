@@ -28,12 +28,12 @@
   https://github.com/jhaddix
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
+- **CoreyMSchafer** (27.2) — 
+  https://github.com/CoreyMSchafer
 - **PaulSec** (26.7) — AI
   https://github.com/PaulSec
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
-- **mingyuliutw** (20.0) — AI
-  https://github.com/mingyuliutw
 - **dayoonasanya** (12.8) — AI, Full-Stack
   https://github.com/dayoonasanya
 - **ninza-innovates** (12.0) — 
