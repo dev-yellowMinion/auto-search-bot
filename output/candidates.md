@@ -14,14 +14,14 @@
   https://github.com/kvfrans
 - **jgamblin** (38.3) — AI
   https://github.com/jgamblin
+- **dovvnloading** (38.2) — AI, Full-Stack
+  https://github.com/dovvnloading
 - **hexsecteam** (37.7) — AI
   https://github.com/hexsecteam
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
 - **awni** (35.2) — AI
   https://github.com/awni
-- **dovvnloading** (35.2) — AI, Full-Stack
-  https://github.com/dovvnloading
 - **gunthercox** (35.2) — AI, Full-Stack
   https://github.com/gunthercox
 - **jhaddix** (34.3) — AI
