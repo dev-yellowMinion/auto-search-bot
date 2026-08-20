@@ -14,7 +14,7 @@
   https://github.com/kvfrans
 - **jgamblin** (38.3) — AI
   https://github.com/jgamblin
-- **dovvnloading** (38.2) — AI, Full-Stack
+- **dovvnloading** (38.3) — AI, Full-Stack
   https://github.com/dovvnloading
 - **hexsecteam** (37.7) — AI
   https://github.com/hexsecteam
