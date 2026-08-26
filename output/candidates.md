@@ -8,7 +8,7 @@
   https://github.com/santosomar
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
-- **Bitwise-01** (40.5) — AI, Full-Stack
+- **Bitwise-01** (40.6) — AI, Full-Stack
   https://github.com/Bitwise-01
 - **jgamblin** (40.3) — AI
   https://github.com/jgamblin
