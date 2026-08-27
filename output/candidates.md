@@ -38,5 +38,5 @@
   https://github.com/dayoonasanya
 - **ninza-innovates** (12.0) — 
   https://github.com/ninza-innovates
-- **pwnedroot** (9.5) — AI
+- **pwnedroot** (9.6) — AI
   https://github.com/pwnedroot
