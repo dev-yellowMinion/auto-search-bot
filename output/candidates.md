@@ -24,7 +24,7 @@
   https://github.com/awni
 - **gunthercox** (35.2) — AI, Full-Stack
   https://github.com/gunthercox
-- **jhaddix** (34.3) — AI
+- **jhaddix** (34.4) — AI
   https://github.com/jhaddix
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
