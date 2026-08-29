@@ -2,10 +2,10 @@
 
 - **howl-anderson** (79.2) — AI
   https://github.com/howl-anderson
+- **santosomar** (60.6) — AI
+  https://github.com/santosomar
 - **jwasham** (60.4) — AI, Full-Stack
   https://github.com/jwasham
-- **santosomar** (57.5) — AI
-  https://github.com/santosomar
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
 - **Bitwise-01** (40.6) — AI, Full-Stack
