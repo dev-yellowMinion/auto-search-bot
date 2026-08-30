@@ -10,7 +10,7 @@
   https://github.com/toxtli
 - **Bitwise-01** (40.6) — AI, Full-Stack
   https://github.com/Bitwise-01
-- **jgamblin** (40.3) — AI
+- **jgamblin** (39.3) — AI
   https://github.com/jgamblin
 - **dovvnloading** (38.7) — AI, Full-Stack
   https://github.com/dovvnloading
