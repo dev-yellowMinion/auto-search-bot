@@ -8,12 +8,12 @@
   https://github.com/jwasham
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
+- **dovvnloading** (40.7) — AI, Full-Stack
+  https://github.com/dovvnloading
 - **Bitwise-01** (40.6) — AI, Full-Stack
   https://github.com/Bitwise-01
 - **jgamblin** (39.4) — AI
   https://github.com/jgamblin
-- **dovvnloading** (38.7) — AI, Full-Stack
-  https://github.com/dovvnloading
 - **kvfrans** (38.5) — AI
   https://github.com/kvfrans
 - **hexsecteam** (37.7) — AI
