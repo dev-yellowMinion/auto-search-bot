@@ -16,7 +16,7 @@
   https://github.com/jgamblin
 - **kvfrans** (38.5) — AI
   https://github.com/kvfrans
-- **hexsecteam** (37.7) — AI
+- **hexsecteam** (37.8) — AI
   https://github.com/hexsecteam
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
