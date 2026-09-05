@@ -8,7 +8,7 @@
   https://github.com/jwasham
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
-- **dovvnloading** (40.7) — AI, Full-Stack
+- **dovvnloading** (40.8) — AI, Full-Stack
   https://github.com/dovvnloading
 - **Bitwise-01** (40.6) — AI, Full-Stack
   https://github.com/Bitwise-01
