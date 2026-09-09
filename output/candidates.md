@@ -1,6 +1,6 @@
 # US Full-Stack & AI Candidates
 
-- **howl-anderson** (82.1) — Full-Stack, AI
+- **howl-anderson** (82.1) — AI, Full-Stack
   https://github.com/howl-anderson
 - **santosomar** (60.6) — AI
   https://github.com/santosomar
