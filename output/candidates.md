@@ -14,12 +14,12 @@
   https://github.com/Bitwise-01
 - **jgamblin** (39.5) — AI
   https://github.com/jgamblin
-- **kvfrans** (38.5) — AI
-  https://github.com/kvfrans
 - **hexsecteam** (37.8) — AI
   https://github.com/hexsecteam
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
+- **kvfrans** (36.3) — AI
+  https://github.com/kvfrans
 - **awni** (35.2) — AI
   https://github.com/awni
 - **gunthercox** (35.2) — AI, Full-Stack
