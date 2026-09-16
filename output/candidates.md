@@ -12,7 +12,7 @@
   https://github.com/dovvnloading
 - **Bitwise-01** (40.6) — AI, Full-Stack
   https://github.com/Bitwise-01
-- **jgamblin** (39.5) — AI
+- **jgamblin** (39.8) — AI
   https://github.com/jgamblin
 - **hexsecteam** (38.2) — AI
   https://github.com/hexsecteam
