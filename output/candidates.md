@@ -8,11 +8,7 @@
   https://github.com/santosomar
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
-- **dovvnloading** (40.8) — AI, Full-Stack
-  https://github.com/dovvnloading
-- **Bitwise-01** (40.6) — AI, Full-Stack
-  https://github.com/Bitwise-01
-- **jgamblin** (39.8) — AI
+- **jgamblin** (40.8) — AI
   https://github.com/jgamblin
 - **hexsecteam** (38.2) — AI
   https://github.com/hexsecteam
@@ -34,9 +30,13 @@
   https://github.com/PaulSec
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
-- **dayoonasanya** (12.8) — AI, Full-Stack
-  https://github.com/dayoonasanya
-- **ninza-innovates** (12.0) — 
-  https://github.com/ninza-innovates
+- **malwaredllc** (23.2) — AI, Full-Stack
+  https://github.com/malwaredllc
+- **mingyuliutw** (20.0) — AI
+  https://github.com/mingyuliutw
+- **dutc** (16.6) — Full-Stack, AI
+  https://github.com/dutc
+- **kyunghyuncho** (10.8) — AI
+  https://github.com/kyunghyuncho
 - **pwnedroot** (9.6) — AI
   https://github.com/pwnedroot
