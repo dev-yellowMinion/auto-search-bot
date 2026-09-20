@@ -10,7 +10,7 @@
   https://github.com/toxtli
 - **dovvnloading** (40.8) — AI, Full-Stack
   https://github.com/dovvnloading
-- **Bitwise-01** (40.6) — AI, Full-Stack
+- **Bitwise-01** (39.2) — AI
   https://github.com/Bitwise-01
 - **hexsecteam** (38.2) — AI
   https://github.com/hexsecteam
