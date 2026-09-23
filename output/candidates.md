@@ -28,7 +28,7 @@
   https://github.com/jhaddix
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
-- **CoreyMSchafer** (27.7) — 
+- **CoreyMSchafer** (27.8) — 
   https://github.com/CoreyMSchafer
 - **PaulSec** (26.7) — AI
   https://github.com/PaulSec
