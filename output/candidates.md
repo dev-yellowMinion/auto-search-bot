@@ -4,8 +4,6 @@
   https://github.com/howl-anderson
 - **jwasham** (60.4) — AI, Full-Stack
   https://github.com/jwasham
-- **santosomar** (54.3) — AI
-  https://github.com/santosomar
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
 - **dovvnloading** (40.8) — AI, Full-Stack
@@ -34,6 +32,8 @@
   https://github.com/PaulSec
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
+- **malwaredllc** (23.2) — AI, Full-Stack
+  https://github.com/malwaredllc
 - **dayoonasanya** (12.6) — AI, Full-Stack
   https://github.com/dayoonasanya
 - **ninza-innovates** (12.0) — 
