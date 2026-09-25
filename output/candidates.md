@@ -22,6 +22,8 @@
   https://github.com/kvfrans
 - **awni** (35.2) — AI
   https://github.com/awni
+- **gunthercox** (35.2) — AI, Full-Stack
+  https://github.com/gunthercox
 - **jhaddix** (34.4) — AI
   https://github.com/jhaddix
 - **HackerPoet** (33.9) — AI
@@ -32,8 +34,6 @@
   https://github.com/PaulSec
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
-- **mingyuliutw** (20.0) — AI
-  https://github.com/mingyuliutw
 - **dayoonasanya** (12.6) — AI, Full-Stack
   https://github.com/dayoonasanya
 - **ninza-innovates** (12.0) — 
