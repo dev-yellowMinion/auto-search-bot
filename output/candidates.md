@@ -8,14 +8,14 @@
   https://github.com/santosomar
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
+- **jgamblin** (40.9) — AI
+  https://github.com/jgamblin
 - **dovvnloading** (40.8) — AI, Full-Stack
   https://github.com/dovvnloading
 - **Bitwise-01** (39.2) — AI
   https://github.com/Bitwise-01
 - **hexsecteam** (38.2) — AI
   https://github.com/hexsecteam
-- **jgamblin** (37.9) — AI
-  https://github.com/jgamblin
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
 - **kvfrans** (36.3) — AI
