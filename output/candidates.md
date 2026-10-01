@@ -6,7 +6,7 @@
   https://github.com/jwasham
 - **santosomar** (54.3) — AI
   https://github.com/santosomar
-- **jgamblin** (42.6) — AI
+- **jgamblin** (42.7) — AI
   https://github.com/jgamblin
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
@@ -28,7 +28,7 @@
   https://github.com/jhaddix
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
-- **CoreyMSchafer** (27.8) — 
+- **CoreyMSchafer** (27.9) — 
   https://github.com/CoreyMSchafer
 - **PaulSec** (26.7) — AI
   https://github.com/PaulSec
