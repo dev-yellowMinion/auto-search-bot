@@ -2,8 +2,6 @@
 
 - **howl-anderson** (86.1) — AI, Full-Stack
   https://github.com/howl-anderson
-- **jwasham** (60.4) — AI, Full-Stack
-  https://github.com/jwasham
 - **santosomar** (54.3) — AI
   https://github.com/santosomar
 - **jgamblin** (42.7) — AI
@@ -20,8 +18,6 @@
   https://github.com/adarob
 - **kvfrans** (36.3) — AI
   https://github.com/kvfrans
-- **awni** (35.2) — AI
-  https://github.com/awni
 - **gunthercox** (35.2) — AI, Full-Stack
   https://github.com/gunthercox
 - **jhaddix** (34.6) — AI
@@ -34,6 +30,10 @@
   https://github.com/PaulSec
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
+- **malwaredllc** (23.2) — AI, Full-Stack
+  https://github.com/malwaredllc
+- **mingyuliutw** (20.0) — AI
+  https://github.com/mingyuliutw
 - **dayoonasanya** (12.6) — AI, Full-Stack
   https://github.com/dayoonasanya
 - **ninza-innovates** (12.0) — 
