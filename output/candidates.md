@@ -6,10 +6,10 @@
   https://github.com/jwasham
 - **santosomar** (54.3) — AI
   https://github.com/santosomar
-- **jgamblin** (42.7) — AI
-  https://github.com/jgamblin
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
+- **jgamblin** (41.7) — AI
+  https://github.com/jgamblin
 - **dovvnloading** (40.8) — AI, Full-Stack
   https://github.com/dovvnloading
 - **Bitwise-01** (39.2) — AI
