@@ -8,7 +8,7 @@
   https://github.com/santosomar
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
-- **jgamblin** (41.7) — AI
+- **jgamblin** (40.8) — AI
   https://github.com/jgamblin
 - **dovvnloading** (40.8) — AI, Full-Stack
   https://github.com/dovvnloading
