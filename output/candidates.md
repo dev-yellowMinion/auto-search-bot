@@ -14,7 +14,7 @@
   https://github.com/dovvnloading
 - **Bitwise-01** (39.2) — AI
   https://github.com/Bitwise-01
-- **hexsecteam** (38.2) — AI
+- **hexsecteam** (38.3) — AI
   https://github.com/hexsecteam
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
