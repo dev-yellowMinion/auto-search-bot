@@ -4,6 +4,8 @@
   https://github.com/howl-anderson
 - **jwasham** (60.4) — AI, Full-Stack
   https://github.com/jwasham
+- **jhaddix** (55.4) — AI, Full-Stack
+  https://github.com/jhaddix
 - **santosomar** (54.3) — AI
   https://github.com/santosomar
 - **toxtli** (42.0) — AI
@@ -24,8 +26,6 @@
   https://github.com/awni
 - **gunthercox** (35.2) — AI, Full-Stack
   https://github.com/gunthercox
-- **jhaddix** (34.6) — AI
-  https://github.com/jhaddix
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
 - **CoreyMSchafer** (27.9) — 
