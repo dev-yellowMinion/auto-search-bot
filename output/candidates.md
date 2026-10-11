@@ -4,7 +4,7 @@
   https://github.com/howl-anderson
 - **jwasham** (60.4) — AI, Full-Stack
   https://github.com/jwasham
-- **jhaddix** (55.4) — AI, Full-Stack
+- **jhaddix** (55.2) — AI, Full-Stack
   https://github.com/jhaddix
 - **santosomar** (54.3) — AI
   https://github.com/santosomar
