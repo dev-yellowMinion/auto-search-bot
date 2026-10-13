@@ -6,7 +6,7 @@
   https://github.com/jwasham
 - **jhaddix** (55.3) — AI, Full-Stack
   https://github.com/jhaddix
-- **santosomar** (54.3) — AI
+- **santosomar** (54.4) — AI
   https://github.com/santosomar
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
