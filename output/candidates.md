@@ -16,7 +16,7 @@
   https://github.com/Bitwise-01
 - **hexsecteam** (38.3) — AI
   https://github.com/hexsecteam
-- **jgamblin** (37.1) — AI
+- **jgamblin** (37.6) — AI
   https://github.com/jgamblin
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
