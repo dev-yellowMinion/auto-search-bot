@@ -14,7 +14,7 @@
   https://github.com/dovvnloading
 - **Bitwise-01** (39.2) — AI
   https://github.com/Bitwise-01
-- **hexsecteam** (38.3) — AI
+- **hexsecteam** (38.4) — AI
   https://github.com/hexsecteam
 - **jgamblin** (37.6) — AI
   https://github.com/jgamblin
