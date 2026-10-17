@@ -14,14 +14,14 @@
   https://github.com/dovvnloading
 - **Bitwise-01** (39.2) — AI
   https://github.com/Bitwise-01
-- **jgamblin** (38.6) — AI
-  https://github.com/jgamblin
 - **hexsecteam** (38.4) — AI
   https://github.com/hexsecteam
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
 - **kvfrans** (36.3) — AI
   https://github.com/kvfrans
+- **jgamblin** (35.6) — AI
+  https://github.com/jgamblin
 - **awni** (35.2) — AI
   https://github.com/awni
 - **gunthercox** (35.2) — AI, Full-Stack
