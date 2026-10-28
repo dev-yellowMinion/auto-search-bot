@@ -20,7 +20,7 @@
   https://github.com/adarob
 - **kvfrans** (36.3) — AI
   https://github.com/kvfrans
-- **jgamblin** (35.6) — AI
+- **jgamblin** (35.5) — AI
   https://github.com/jgamblin
 - **awni** (35.2) — AI
   https://github.com/awni
@@ -30,13 +30,13 @@
   https://github.com/HackerPoet
 - **CoreyMSchafer** (27.9) — 
   https://github.com/CoreyMSchafer
-- **PaulSec** (27.7) — AI
+- **PaulSec** (27.6) — AI
   https://github.com/PaulSec
 - **adamdotdevin** (25.3) — Full-Stack, AI
   https://github.com/adamdotdevin
 - **sahildua2305** (17.7) — Full-Stack, AI
   https://github.com/sahildua2305
-- **dayoonasanya** (12.3) — AI, Full-Stack
+- **dayoonasanya** (12.6) — AI, Full-Stack
   https://github.com/dayoonasanya
 - **pwnedroot** (9.5) — AI
   https://github.com/pwnedroot
