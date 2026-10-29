@@ -36,7 +36,7 @@
   https://github.com/adamdotdevin
 - **sahildua2305** (17.7) — Full-Stack, AI
   https://github.com/sahildua2305
-- **dayoonasanya** (12.6) — AI, Full-Stack
+- **dayoonasanya** (14.6) — Full-Stack, AI
   https://github.com/dayoonasanya
 - **pwnedroot** (9.5) — AI
   https://github.com/pwnedroot
