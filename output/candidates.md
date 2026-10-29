@@ -1,6 +1,6 @@
 # US Full-Stack & AI Candidates
 
-- **howl-anderson** (86.1) — AI, Full-Stack
+- **howl-anderson** (86.0) — AI, Full-Stack
   https://github.com/howl-anderson
 - **jwasham** (60.4) — AI, Full-Stack
   https://github.com/jwasham
@@ -28,7 +28,7 @@
   https://github.com/gunthercox
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
-- **CoreyMSchafer** (27.9) — 
+- **CoreyMSchafer** (28.0) — 
   https://github.com/CoreyMSchafer
 - **PaulSec** (27.6) — AI
   https://github.com/PaulSec
