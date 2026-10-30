@@ -38,5 +38,5 @@
   https://github.com/sahildua2305
 - **dayoonasanya** (14.6) — Full-Stack, AI
   https://github.com/dayoonasanya
-- **pwnedroot** (9.5) — AI
+- **pwnedroot** (9.6) — AI
   https://github.com/pwnedroot
