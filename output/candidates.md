@@ -20,14 +20,14 @@
   https://github.com/adarob
 - **kvfrans** (36.3) — AI
   https://github.com/kvfrans
-- **jgamblin** (35.5) — AI
-  https://github.com/jgamblin
 - **awni** (35.2) — AI
   https://github.com/awni
 - **gunthercox** (35.2) — AI, Full-Stack
   https://github.com/gunthercox
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
+- **jgamblin** (32.8) — AI
+  https://github.com/jgamblin
 - **CoreyMSchafer** (28.0) — 
   https://github.com/CoreyMSchafer
 - **PaulSec** (27.6) — AI
