@@ -10,8 +10,6 @@
   https://github.com/jhaddix
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
-- **jgamblin** (41.1) — AI
-  https://github.com/jgamblin
 - **dovvnloading** (40.8) — AI, Full-Stack
   https://github.com/dovvnloading
 - **Bitwise-01** (39.2) — AI
@@ -22,6 +20,8 @@
   https://github.com/adarob
 - **kvfrans** (36.3) — AI
   https://github.com/kvfrans
+- **jgamblin** (35.9) — AI
+  https://github.com/jgamblin
 - **awni** (35.2) — AI
   https://github.com/awni
 - **gunthercox** (35.2) — AI, Full-Stack
