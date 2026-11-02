@@ -28,7 +28,7 @@
   https://github.com/gunthercox
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
-- **adamdotdevin** (28.3) — AI, Full-Stack
+- **adamdotdevin** (28.4) — AI, Full-Stack
   https://github.com/adamdotdevin
 - **CoreyMSchafer** (28.0) — 
   https://github.com/CoreyMSchafer
