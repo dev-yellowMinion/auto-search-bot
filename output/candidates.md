@@ -6,7 +6,7 @@
   https://github.com/jwasham
 - **santosomar** (59.9) — AI
   https://github.com/santosomar
-- **jhaddix** (49.3) — AI, Full-Stack
+- **jhaddix** (46.3) — AI, Full-Stack
   https://github.com/jhaddix
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
@@ -20,7 +20,7 @@
   https://github.com/adarob
 - **kvfrans** (36.3) — AI
   https://github.com/kvfrans
-- **jgamblin** (35.7) — AI, Full-Stack
+- **jgamblin** (35.9) — AI, Full-Stack
   https://github.com/jgamblin
 - **awni** (35.2) — AI
   https://github.com/awni
