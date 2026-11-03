@@ -12,8 +12,6 @@
   https://github.com/toxtli
 - **dovvnloading** (40.8) — AI, Full-Stack
   https://github.com/dovvnloading
-- **jgamblin** (40.6) — AI, Full-Stack
-  https://github.com/jgamblin
 - **Bitwise-01** (39.2) — AI
   https://github.com/Bitwise-01
 - **hexsecteam** (38.4) — AI
@@ -22,6 +20,8 @@
   https://github.com/adarob
 - **kvfrans** (36.3) — AI
   https://github.com/kvfrans
+- **jgamblin** (35.7) — AI, Full-Stack
+  https://github.com/jgamblin
 - **awni** (35.2) — AI
   https://github.com/awni
 - **gunthercox** (35.2) — AI, Full-Stack
