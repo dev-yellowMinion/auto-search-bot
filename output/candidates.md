@@ -6,12 +6,12 @@
   https://github.com/jwasham
 - **santosomar** (59.9) — AI
   https://github.com/santosomar
-- **jhaddix** (43.5) — AI, Full-Stack
-  https://github.com/jhaddix
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
 - **dovvnloading** (40.9) — AI, Full-Stack
   https://github.com/dovvnloading
+- **jhaddix** (40.5) — AI, Full-Stack
+  https://github.com/jhaddix
 - **Bitwise-01** (39.2) — AI
   https://github.com/Bitwise-01
 - **hexsecteam** (38.4) — AI
