@@ -10,12 +10,12 @@
   https://github.com/dovvnloading
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
+- **jhaddix** (40.5) — AI, Full-Stack
+  https://github.com/jhaddix
 - **Bitwise-01** (39.3) — AI
   https://github.com/Bitwise-01
 - **hexsecteam** (38.4) — AI
   https://github.com/hexsecteam
-- **jhaddix** (37.5) — AI, Full-Stack
-  https://github.com/jhaddix
 - **jgamblin** (37.5) — AI, Full-Stack
   https://github.com/jgamblin
 - **adarob** (36.4) — Full-Stack, AI
