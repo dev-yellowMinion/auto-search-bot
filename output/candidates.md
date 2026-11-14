@@ -6,8 +6,10 @@
   https://github.com/santosomar
 - **jwasham** (60.4) — AI, Full-Stack
   https://github.com/jwasham
-- **dovvnloading** (46.2) — AI, Full-Stack
+- **dovvnloading** (46.3) — AI, Full-Stack
   https://github.com/dovvnloading
+- **jgamblin** (44.2) — AI, Full-Stack
+  https://github.com/jgamblin
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
 - **jhaddix** (40.5) — AI, Full-Stack
@@ -16,8 +18,6 @@
   https://github.com/Bitwise-01
 - **hexsecteam** (38.4) — AI
   https://github.com/hexsecteam
-- **jgamblin** (37.5) — AI, Full-Stack
-  https://github.com/jgamblin
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
 - **kvfrans** (36.3) — AI
