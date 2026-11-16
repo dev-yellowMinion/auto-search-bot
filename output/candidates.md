@@ -6,7 +6,7 @@
   https://github.com/santosomar
 - **jwasham** (60.4) — AI, Full-Stack
   https://github.com/jwasham
-- **dovvnloading** (46.4) — AI, Full-Stack
+- **dovvnloading** (52.4) — AI, Full-Stack
   https://github.com/dovvnloading
 - **jgamblin** (44.2) — AI, Full-Stack
   https://github.com/jgamblin
