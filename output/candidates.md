@@ -8,7 +8,7 @@
   https://github.com/jwasham
 - **dovvnloading** (52.4) — AI, Full-Stack
   https://github.com/dovvnloading
-- **jgamblin** (44.2) — AI, Full-Stack
+- **jgamblin** (45.2) — AI, Full-Stack
   https://github.com/jgamblin
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
