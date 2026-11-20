@@ -34,7 +34,7 @@
   https://github.com/CoreyMSchafer
 - **PaulSec** (27.6) — AI
   https://github.com/PaulSec
-- **sahildua2305** (17.7) — Full-Stack, AI
+- **sahildua2305** (17.4) — Full-Stack, AI
   https://github.com/sahildua2305
 - **dayoonasanya** (14.6) — Full-Stack, AI
   https://github.com/dayoonasanya
