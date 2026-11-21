@@ -28,12 +28,12 @@
   https://github.com/gunthercox
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
+- **PaulSec** (28.6) — AI
+  https://github.com/PaulSec
 - **adamdotdevin** (28.4) — AI, Full-Stack
   https://github.com/adamdotdevin
 - **CoreyMSchafer** (28.0) — 
   https://github.com/CoreyMSchafer
-- **PaulSec** (27.6) — AI
-  https://github.com/PaulSec
 - **sahildua2305** (17.4) — Full-Stack, AI
   https://github.com/sahildua2305
 - **dayoonasanya** (14.6) — Full-Stack, AI
