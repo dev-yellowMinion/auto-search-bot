@@ -12,12 +12,12 @@
   https://github.com/jgamblin
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
-- **jhaddix** (40.5) — AI, Full-Stack
-  https://github.com/jhaddix
 - **Bitwise-01** (39.3) — AI
   https://github.com/Bitwise-01
 - **hexsecteam** (38.4) — AI
   https://github.com/hexsecteam
+- **jhaddix** (37.5) — AI, Full-Stack
+  https://github.com/jhaddix
 - **adarob** (36.4) — Full-Stack, AI
   https://github.com/adarob
 - **kvfrans** (36.3) — AI
