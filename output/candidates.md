@@ -34,9 +34,9 @@
   https://github.com/adamdotdevin
 - **CoreyMSchafer** (28.0) — 
   https://github.com/CoreyMSchafer
+- **mingyuliutw** (20.0) — AI
+  https://github.com/mingyuliutw
 - **sahildua2305** (17.4) — Full-Stack, AI
   https://github.com/sahildua2305
 - **dayoonasanya** (14.6) — Full-Stack, AI
   https://github.com/dayoonasanya
-- **pwnedroot** (9.6) — AI
-  https://github.com/pwnedroot
