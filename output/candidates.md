@@ -4,10 +4,10 @@
   https://github.com/howl-anderson
 - **santosomar** (62.3) — AI
   https://github.com/santosomar
-- **dovvnloading** (60.5) — AI, Full-Stack
-  https://github.com/dovvnloading
 - **jwasham** (60.4) — AI, Full-Stack
   https://github.com/jwasham
+- **dovvnloading** (60.4) — AI, Full-Stack
+  https://github.com/dovvnloading
 - **jgamblin** (44.7) — AI, Full-Stack
   https://github.com/jgamblin
 - **toxtli** (42.0) — AI
