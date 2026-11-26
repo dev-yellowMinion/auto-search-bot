@@ -8,7 +8,7 @@
   https://github.com/santosomar
 - **jwasham** (60.4) — AI, Full-Stack
   https://github.com/jwasham
-- **jgamblin** (44.7) — AI, Full-Stack
+- **jgamblin** (45.8) — AI, Full-Stack
   https://github.com/jgamblin
 - **toxtli** (42.0) — AI
   https://github.com/toxtli
@@ -28,7 +28,7 @@
   https://github.com/gunthercox
 - **HackerPoet** (33.9) — AI
   https://github.com/HackerPoet
-- **PaulSec** (28.6) — AI
+- **PaulSec** (28.7) — AI
   https://github.com/PaulSec
 - **adamdotdevin** (28.4) — AI, Full-Stack
   https://github.com/adamdotdevin
